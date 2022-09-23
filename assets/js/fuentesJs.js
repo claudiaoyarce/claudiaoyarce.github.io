@@ -18,7 +18,7 @@ $(document).ready(function(){
         });
 
     $("button").click(function(){
-        $("p").toggle();
-        });
+        alert("Datos Enaviados...");
+    });
 
 });
