@@ -1,6 +1,5 @@
 *{
-    margin: 0%;
-    
+    margin: 0%;    
 }
 .negro{
     background: #000;
@@ -27,19 +26,13 @@
 }
 .negro1{
     background: #000;
-    
+    font-family: 'Roboto', sans-serif;
 }
 .card-img-top {
     width: 100%;
     height: 15vw;
     object-fit: cover;
     
-}
-.centrado {
-    
-    float: left;
-    
-
 }
 .roboto{
     font-family: 'Roboto', sans-serif;
