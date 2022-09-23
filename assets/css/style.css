@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    
+}
+.negro{
+    background: #000;
+    opacity: 1;
+   
+    }
+.celeste1{
+    
+    /* este color puede ser modificado */
+    background:#aaebf5;
+    opacity: 1;
+    display: flex;    
+    justify-content: center;
+}
+  
+.celeste2{
+    background:#54b8c7;
+    font-family: 'Lobster', cursive;
+         
+}
+.Aceptamos{
+    font: normal normal bold 40px/55px Open Sans;
+    color: #fff;
+}
+.negro1{
+    background: #000;
+    
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    
+}
+.centrado {
+    
+    float: left;
+    
+
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.titulo {
+    font-family: 'Lobster';
+
+}
+.parrafo {
+    font-family: 'Roboto', sans-serif;
+}
