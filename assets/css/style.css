@@ -14,7 +14,13 @@
     display: flex;    
     justify-content: center;
 }
-  
+.celeste3{
+    
+    /* este color puede ser modificado */
+    background:#aaebf5;    
+     
+    
+} 
 .celeste2{
     background:#54b8c7;
     font-family: 'Lobster', cursive;
@@ -43,4 +49,9 @@
 }
 .parrafo {
     font-family: 'Roboto', sans-serif;
+}
+
+.iconos{
+    padding: 1%;    
+    left: 235px;
 }
